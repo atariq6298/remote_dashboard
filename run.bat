@@ -1,0 +1,1 @@
+cmd /k "env\scripts\activate & set flask_app=app.py & flask run"
